@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761607880346",
+    "project_id": "eventopya-9e643",
+    "storage_bucket": "eventopya-9e643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761607880346:android:cdc9f1b43a1423e3fba923",
+        "android_client_info": {
+          "package_name": "com.example.wedding_organise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761607880346-21torskfvjt743clk7qqmg1ji6bqbbbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVfOt8sqFdCkjcFClgaTzgQ5ddcHG0XoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761607880346-21torskfvjt743clk7qqmg1ji6bqbbbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
